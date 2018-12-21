@@ -1,0 +1,16 @@
+# virtualenv
+env/
+
+# VS Code Settings
+.vscode/
+.env/
+.envFile
+.DS_Store
+
+# Python stuff
+*.pyc
+__pycache__/
+.pytest_cache/
+
+# Development Server Stuff
+db/*
